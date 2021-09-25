@@ -1,0 +1,28 @@
+.nav-bar{
+    background-color: rgba(30, 143, 255, 0.856);
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+.nav-items{
+    display: flex;
+}
+.nav-items li{
+    list-style: none;
+    margin-left: 20px;
+}
+.nav-items a{
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+    font-weight: 700;
+}
+.nav-items a:hover{
+    font-size: 19px;
+    color: white;
+    border-bottom: 3px solid black;
+}
+.heading{
+    text-align: center;
+    /* color: white; */
+}

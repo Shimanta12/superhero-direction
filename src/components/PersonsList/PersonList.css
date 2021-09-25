@@ -1,0 +1,6 @@
+.persons-list li{
+    list-style: decimal;
+    font-size: 20px;
+    font-weight: 700;
+    margin-left: 30px;
+}
