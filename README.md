@@ -1,10 +1,15 @@
-## Biggest Collaboration Of Tech Geniuses! - by TechHub
+## TechHub
 
 Project live site link [Live site link](https://techhub-shimanto.netlify.app/).
 
 ## Description
 Biggest Tech Companies founders are set to have a chit-chat and share their thoughts on modern technology.
-Contact us to take a place in the event meet Tech Superheros.
+Contact us to take a place in the event and  meet your Tech Superheroes.
+
+## functionality used
+1. Total 9 tech heroes with their images and details styled with CSS grid and a button in it.
+2. You can add each of the person in the persons list by clicking 'Add To List' button.
+3. Then total persons and selected persons in the list and their total cost will show up  in the site via onClick.
 
 ## Tech companies
 1. Amazon.

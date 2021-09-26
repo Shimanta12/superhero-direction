@@ -5,18 +5,18 @@ import './Persons.css';
 
 const Persons = () => {
     const [persons, setPersons] = useState([]);
-    const [info, setInfo] = useState([]);
+    const [techPersons, setTechPersons] = useState([]);
 
     useEffect(() => {
-        fetch('./techPersons.json')
+        fetch('./techGeniuses.json')
             .then(res => res.json())
             .then(data => setPersons(data))
     }, []);
 
     const handleAddToList = person => {
-        if (info.indexOf(person) === -1) {
-            const personInfo = [...info, person];
-            setInfo(personInfo);
+        if (techPersons.indexOf(person) === -1) {
+            const techGuys = [...techPersons, person];
+            setTechPersons(techGuys);
         }
     }
 
@@ -32,7 +32,7 @@ const Persons = () => {
                 }
             </div>
             <div className="persons-info">
-                <PersonsList info={info}></PersonsList>
+                <PersonsList techPersons={techPersons}></PersonsList>
             </div>
         </div>
     );

@@ -2,7 +2,7 @@
     {
         "id": "1",
         "name": "Jeff Bezos",
-        "age": "57",
+        "age": 57,
         "founderOf": "Amazon",
         "netWorth": "196.3 billion USD",
         "cost": 123000,
@@ -12,17 +12,17 @@
     {
         "id": "2",
         "name": " Mark Zuckerberg",
-        "age": "37",
+        "age": 37,
         "founderOf": "Facebook",
         "netWorth": "122.7 billion USD",
         "cost": 111000,
         "img": "https://thumbor.forbes.com/thumbor/fit-in/416x416/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5c76b7d331358e35dd2773a9%2F0x0.jpg%3Fbackground%3D000000%26cropX1%3D0%26cropX2%3D4401%26cropY1%3D0%26cropY2%3D4401",
-        "nationality": "American, Mongolian"
+        "nationality": "American"
     },
     {
         "id": "3",
         "name": "Bill Gates",
-        "age": "65",
+        "age": 65,
         "founderOf": "Microsoft",
         "netWorth": "131.2 billion USD",
         "cost": 125000,
@@ -32,7 +32,7 @@
     {
         "id": "4",
         "name": "Steve Jobs",
-        "age": "56",
+        "age": 56,
         "founderOf": "Apple",
         "netWorth": "45 bilion USD",
         "cost": 137000,
@@ -42,7 +42,7 @@
     {
         "id": "5",
         "name": "Jack Ma",
-        "age": "57",
+        "age": 57,
         "founderOf": "Alibaba",
         "netWorth": "39.8 billion USD",
         "cost": 91100,
@@ -52,7 +52,7 @@
     {
         "id": "6",
         "name": "Tim Berners",
-        "age": "66",
+        "age": 66,
         "founderOf": "World wide web",
         "netWorth": "10 bilion USD",
         "cost": 123000,
@@ -62,7 +62,7 @@
     {
         "id": "7",
         "name": " Ray Tomlinson",
-        "age": "74",
+        "age": 74,
         "founderOf": "Email",
         "netWorth": "85 bilion USD",
         "cost": 89000,
@@ -72,7 +72,7 @@
     {
         "id": "8",
         "name": "Elon Musk",
-        "age": "50",
+        "age": 50,
         "founderOf": "SpaceX",
         "netWorth": "194.6 billion USD",
         "cost": 129000,
@@ -82,7 +82,7 @@
     {
         "id": "9",
         "name": "Larry Page",
-        "age": "48",
+        "age": 48,
         "founderOf": "Google",
         "netWorth": "120.2 billion USD",
         "cost": 97300,
