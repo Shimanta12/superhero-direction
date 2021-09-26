@@ -1,6 +1,6 @@
 ## Biggest Collaboration Of Tech Geniuses! - by TechHub
 
-Project live site link [Live site link](https://github.com/facebook/create-react-app).
+Project live site link [Live site link](https://techhub-shimanto.netlify.app/).
 
 ## Description
 Biggest Tech Companies founders are set to have a chit-chat and share their thoughts on modern technology.
