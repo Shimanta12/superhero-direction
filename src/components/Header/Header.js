@@ -13,9 +13,9 @@ const Header = () => {
                 </ul>
             </nav>
             <div className="heading">
-                <h1>Biggest Collaboration Of Tech Geniuses</h1>
+                <h1>Biggest Collaboration Of Tech Geniuses!</h1>
                 <h1>Contact us to take a part in it</h1>
-                <h2>Total Budget: 200 million$</h2>
+                <h2>Total Budget: 100 million$</h2>
             </div>
         </div>
     );

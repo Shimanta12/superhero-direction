@@ -1,5 +1,5 @@
 .nav-bar{
-    background-color: rgba(30, 143, 255, 0.856);
+    background-color: rgba(30, 143, 255, 0.678);
     padding: 20px;
     display: flex;
     justify-content: space-between;
@@ -20,9 +20,8 @@
 .nav-items a:hover{
     font-size: 19px;
     color: white;
-    border-bottom: 3px solid black;
+    border-bottom: 3px solid white;
 }
 .heading{
     text-align: center;
-    /* color: white; */
 }
